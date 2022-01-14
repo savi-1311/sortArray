@@ -1,5 +1,5 @@
-# RPS-bot
-A bot written in bash to play Rock, Paper, Scissors
+# sortArray
+A simple bash script that sorts an array.
 
 ### 🔧 Setup:
 
@@ -20,3 +20,4 @@ A bot written in bash to play Rock, Paper, Scissors
   ./run.sh
   ```
 ### 💻 In Action:
+![image](https://user-images.githubusercontent.com/56017960/149459567-137ca7c8-7a5b-41c3-8336-da23bff6070e.png)
